@@ -5,3 +5,9 @@ Initializing a repository sets it up so it can be used to commit changes to file
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area allows you to logically group sets of files together so they can be committed as one snapshot.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By using the "git diff --staged" command just prior to committing, you can see all of the change you are about to commit and ensure that they belong to one logical change.
+
+
