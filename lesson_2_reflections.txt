@@ -10,4 +10,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 By using the "git diff --staged" command just prior to committing, you can see all of the change you are about to commit and ensure that they belong to one logical change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+Branches help to manage multiple versions or releases of the code.  They help by maintaining separate versions of the code base which can be merged at a later time.
