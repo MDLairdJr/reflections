@@ -13,3 +13,7 @@ By using the "git diff --staged" command just prior to committing, you can see a
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches help to manage multiple versions or releases of the code.  They help by maintaining separate versions of the code base which can be merged at a later time.
+
+How do the diagrams help you visualize the branch structure?
+
+A picture is worth 1000 words.  It helps to visualize common parent nodes and to identify on which branches certain revisions exist.
