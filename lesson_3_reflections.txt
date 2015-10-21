@@ -9,3 +9,7 @@ Manually pulling changes allows you a finer degree of control over your local re
 Decribe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks operate only on GitHub and are used to create a new version of an existing repository.  Clone will also copy and existing repository and works either in your local repository or from GitHub to your local repository.  Branches are only used for local repositories.  Branches don't create copies of repositories, but instead, they create a new label for a commit - a new commit path.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows you to identify when your local repository is ahead, behind, or out of sync with the remote.
